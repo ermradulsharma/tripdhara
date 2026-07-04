@@ -47,6 +47,7 @@
     },
     "dependencies": {
         "next": "16.2.10",
+        "postcss": "^8.5.16",
         "react": "19.2.7",
         "react-dom": "19.2.7"
     },
@@ -66,7 +67,11 @@
         "tailwindcss": "^4"
     },
     "overrides": {
-        "eslint": "$eslint"
+        "eslint": "$eslint",
+        "postcss": "$postcss",
+        "next": {
+            "postcss": "$postcss"
+        }
     },
     "browserslist": {
         "production": [
