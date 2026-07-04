@@ -1,0 +1,94 @@
+{
+    "accommodation": {
+        "id": "accommodation",
+        "label": "Accommodation",
+        "iconPath": "M19 7H11V5A2 2 0 0 0 9 3H5A2 2 0 0 0 3 5V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V9A2 2 0 0 0 19 7M9 5V7H5V5H9M5 9H9V11H5V9M5 13H9V15H5V13M5 17H9V19H5V17M19 19H11V17H19V19M19 15H11V13H19V15M19 11H11V9H19V11Z",
+        "image": "url(\"/assets/images/luxury_resort.png\")",
+        "tagline": "Premium Stays & Resorts",
+        "title": "Handpicked Mountain Lodges",
+        "desc": "Escape to personally pre-inspected cozy homestays, premium wooden cottages, and luxury valley resorts with stunning peak views.",
+        "stats": [
+            {
+                "val": "100%",
+                "lbl": "Verified Stays"
+            },
+            {
+                "val": "50+",
+                "lbl": "Premium Stays"
+            },
+            {
+                "val": "4.9★",
+                "lbl": "Rated Stays"
+            }
+        ]
+    },
+    "activity": {
+        "id": "activity",
+        "label": "Activities",
+        "iconPath": "M14.54 13.53L16 14.54L15.35 16.5H8.65L8 14.54L9.46 13.53L10.35 15.5H13.65L14.54 13.53M12 2C16.42 2 20 5.58 20 10V18C20 19.11 19.11 20 18 20H6C4.89 20 4 19.11 4 18V10C4 5.58 7.58 2 12 2M12 4C8.69 4 6 6.69 6 10V13.88L8.14 12.4L9.62 14H14.38L15.86 12.4L18 13.88V10C18 6.69 15.31 4 12 4Z",
+        "image": "url(\"/assets/images/hero_background.png\")",
+        "tagline": "Adrenaline & Outdoors",
+        "title": "Conquer the Himalayan Wilds",
+        "desc": "Engage in thrilling activities led by certified local instructors: white-water rafting in Rishikesh, paragliding in Bir Billing, or trekking to the highest temple in Tungnath.",
+        "stats": [
+            {
+                "val": "100%",
+                "lbl": "Certified Guides"
+            },
+            {
+                "val": "12+",
+                "lbl": "Valley Trails"
+            },
+            {
+                "val": "Zero",
+                "lbl": "Safety Issues"
+            }
+        ]
+    },
+    "travel": {
+        "id": "travel",
+        "label": "Transport",
+        "iconPath": "M5 11L6.5 6.5H17.5L19 11M17.5 16A1.5 1.5 0 0 1 16 14.5A1.5 1.5 0 0 1 17.5 13A1.5 1.5 0 0 1 19 14.5A1.5 1.5 0 0 1 17.5 16M6.5 16A1.5 1.5 0 0 1 5 14.5A1.5 1.5 0 0 1 6.5 13A1.5 1.5 0 0 1 8 14.5A1.5 1.5 0 0 1 6.5 16M18.92 6C18.72 5.42 18.16 5 17.5 5H6.5C5.84 5 5.28 5.42 5.08 6L3 12V20A1 1 0 0 0 4 21H5A1 1 0 0 0 6 20V19H18V20A1 1 0 0 0 19 21H20A1 1 0 0 0 21 20V12L18.92 6Z",
+        "image": "url(\"/assets/images/adventure_bike.png\")",
+        "tagline": "Mountain Transit Services",
+        "title": "Ride Free or Relax in Comfort",
+        "desc": "Navigate winding passes on a rugged Royal Enfield Himalayan 450, or sit back in a luxury SUV driven by a veteran mountain chauffeur.",
+        "stats": [
+            {
+                "val": "50+",
+                "lbl": "Bike Fleet"
+            },
+            {
+                "val": "100%",
+                "lbl": "Mountain Drivers"
+            },
+            {
+                "val": "24/7",
+                "lbl": "Roadside Assist"
+            }
+        ]
+    },
+    "package": {
+        "id": "package",
+        "label": "Packages",
+        "iconPath": "M11 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V10.1C19.39 10.04 18.7 10 18 10C17.3 10 16.61 10.04 16 10.1V6H6V18H11V20M10 14V16H15.08C14.63 15.42 14.28 14.75 14.05 14H10M8 14H9V16H8V14M10 10V12H16V10.82C15.22 11.28 14.56 11.89 14.05 12.6H10M8 10H9V12H8V10M17 12V15H14V17H17V20H19V17H22V15H19V12H17Z",
+        "image": "url(\"/assets/images/scenic_landscape.avif\")",
+        "tagline": "Bespoke Tour Packages",
+        "title": "Curated Himalayan Journeys",
+        "desc": "Embark on the sacred Chardham pilgrimage or request a custom adventure itinerary tailored by local experts to match your group size and pace.",
+        "stats": [
+            {
+                "val": "100%",
+                "lbl": "Organized Plans"
+            },
+            {
+                "val": "10k+",
+                "lbl": "Pilgrims Guided"
+            },
+            {
+                "val": "Flexible",
+                "lbl": "Re-routing"
+            }
+        ]
+    }
+}

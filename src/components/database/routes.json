@@ -1,0 +1,34 @@
+[
+    {
+        "id": "route1",
+        "service": "travel",
+        "target": "Chauffeur-driven Car",
+        "badge": "Car Services",
+        "title": "Mussoorie & Dhanaulti Escapade",
+        "description": "Relax as our local chauffeur drives you through misty pine forest roads and scenic ridges."
+    },
+    {
+        "id": "route2",
+        "service": "travel",
+        "target": "Bike Rental",
+        "badge": "Bike Rentals",
+        "title": "Chopta (Mini Switzerland) Ride",
+        "description": "Rent a rugged Royal Enfield and conquer the twisting road bends of Chopta Valley."
+    },
+    {
+        "id": "route3",
+        "service": "accommodation",
+        "target": "Hotel",
+        "badge": "Stay Booking",
+        "title": "Mukteshwar Cottage Retreat",
+        "description": "Enjoy panoramic views of snow-capped peaks from a handpicked, verified wooden cottage."
+    },
+    {
+        "id": "route4",
+        "service": "package",
+        "target": "Custom Trip",
+        "badge": "Tour Package",
+        "title": "Adventure & Trekking Package",
+        "description": "A fully-coordinated, guided trek itinerary matching your adventure vibe."
+    }
+]

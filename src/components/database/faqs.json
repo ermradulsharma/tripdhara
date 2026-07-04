@@ -1,0 +1,22 @@
+[
+    {
+        "id": "faq1",
+        "question": "What documents do I need to rent a self-drive bike or car?",
+        "answer": "You need a valid Driving License (Two-Wheeler for bikes, LMV for cars), a Government ID (Aadhaar or Passport), and a refundable security deposit. Original documents must be presented at pick-up."
+    },
+    {
+        "id": "faq2",
+        "question": "Are your car rentals self-drive or chauffeur-driven?",
+        "answer": "We offer both self-drive car rentals and premium chauffeur-driven cars. For safety on twisting and steep mountain roads, chauffeur-driven cars with verified local mountain chauffeurs are highly recommended."
+    },
+    {
+        "id": "faq3",
+        "question": "How does ground assistance work in case of issues?",
+        "answer": "We provide 24/7 ground assistance. In case of road closures, vehicle issues, or weather warnings, our local support network coordinates instantly to keep your trip on track."
+    },
+    {
+        "id": "faq4",
+        "question": "How can I customize a travel package?",
+        "answer": "Simply select the 'Package' tab in our booking form, select the 'Custom Trip' option, and submit. Our local itinerary planner will connect with you on WhatsApp to design your custom path."
+    }
+]

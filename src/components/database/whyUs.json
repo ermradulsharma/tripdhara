@@ -1,0 +1,26 @@
+[
+    {
+        "id": "why1",
+        "iconPath": "M12,6.5A5.5,5.5 0 1,1 6.5,12A5.5,5.5 0 0,1 12,6.5M12,2A10,10 0 1,0 22,12A10,10 0 0,0 12,2M12,4A8,8 0 1,1 4,12A8,8 0 0,1 12,4M11,10H13V16H11V10M11,7H13V9H11V7Z",
+        "title": "No Ghost Bookings",
+        "description": "We don't list thousands of unchecked properties. If a homestay or hotel is on our list, someone from our team has slept in the bed, checked the hot water, and eaten the food."
+    },
+    {
+        "id": "why2",
+        "iconPath": "M12,1L3,5V11C3,16.55 6.84,21.74 12,23C17.16,21.74 21,16.55 21,11V5L12,1M12,5A3,3 0 0,1 15,8A3,3 0 0,1 12,11A3,3 0 0,1 9,8A3,3 0 0,1 12,5M12,13C14.67,13 20,14.33 20,17V18H4V17C4,14.33 9.33,13 12,13Z",
+        "title": "Local Drivers, Not GPS Chauffeurs",
+        "description": "Driving in the plains is not the same as driving on winding mountain roads. Our veteran drivers have spent years navigating these routes. They know where black ice forms and how to drive defensively."
+    },
+    {
+        "id": "why3",
+        "iconPath": "M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.47 16.86L2.05 22L7.3 20.68C8.75 21.47 10.37 21.89 12.04 21.89C17.5 21.89 21.95 17.44 21.95 11.97C21.95 9.32 20.92 6.83 19.05 4.95C17.18 3.07 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.64 20.28 9.7 20.28 11.9C20.28 16.44 16.6 20.13 12.05 20.13C10.6 20.13 9.19 19.75 7.97 19.03L7.68 18.86L4.54 19.66L5.38 16.63L5.18 16.32C4.4 15.09 3.97 13.67 3.97 11.9C3.97 7.36 7.64 3.67 12.05 3.67",
+        "title": "Live WhatsApp Support",
+        "description": "If a road is blocked or your plans change mid-trip, you don’t wait on hold with a call center. You message us directly on WhatsApp, and we adjust your bookings and routes in real-time."
+    },
+    {
+        "id": "why4",
+        "iconPath": "M12 2A10 10 0 0 1 22 12A10 10 0 0 1 12 22A10 10 0 0 1 2 12A10 10 0 0 1 12 2M12 4A8 8 0 0 0 4 12A8 8 0 0 0 12 20A8 8 0 0 0 20 12A8 8 0 0 0 12 4M15 10A1 1 0 0 1 16 11V13A1 1 0 0 1 15 14H14V15H12V14H11V13H13V12H11V11A1 1 0 0 1 12 10H15M12 8A1 1 0 0 1 13 9V10H11V9A1 1 0 0 1 12 8Z",
+        "title": "Transparent Mountain Rates",
+        "description": "We don't believe in surprise service taxes or hidden vehicle maintenance fees. The price we quote you on WhatsApp is the final, transparent price you pay."
+    }
+]

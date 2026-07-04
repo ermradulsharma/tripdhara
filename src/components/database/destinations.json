@@ -1,0 +1,30 @@
+[
+    {
+        "id": "dest1",
+        "image": "assets/images/hero_background.png",
+        "alt": "Rishikesh Valleys",
+        "title": "Rishikesh Valley",
+        "subtitle": "Cruiser Routes & Camps"
+    },
+    {
+        "id": "dest2",
+        "image": "assets/images/luxury_resort.png",
+        "alt": "Mukteshwar Cottages",
+        "title": "Mukteshwar Stays",
+        "subtitle": "Panoramic Wooden Resorts"
+    },
+    {
+        "id": "dest3",
+        "image": "assets/images/adventure_bike.png",
+        "alt": "Chopta Valleys",
+        "title": "Chopta Valley",
+        "subtitle": "Trek Trails & Bike Paths"
+    },
+    {
+        "id": "dest4",
+        "image": "assets/images/luxury_suv.png",
+        "alt": "Manali Ridges",
+        "title": "Manali Ridges",
+        "subtitle": "Chauffeur-Driven SUV Passes"
+    }
+]

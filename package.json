@@ -1,0 +1,100 @@
+{
+    "name": "tripdhara",
+    "version": "1.0.0",
+    "description": "Tripdhara - Premium Himalayan Travel & Booking Platform",
+    "license": "UNLICENSED",
+    "private": true,
+    "author": {
+        "name": "Mradul Sharma",
+        "email": "ermradulsharma0@gmail.com",
+        "url": "https://mradulsharma.vercel.app/",
+        "role": "Software Architect"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/ermradulsharma"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ermradulsharma/tripdhara.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ermradulsharma/tripdhara/issues"
+    },
+    "homepage": "https://tripdhara.in",
+    "keywords": [
+        "travel",
+        "tourism",
+        "himalayas",
+        "uttarakhand"
+    ],
+    "engines": {
+        "node": ">=18.17.0",
+        "npm": ">=9.0.0"
+    },
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "format": "prettier --write \"src/**/*.{js,jsx,css}\"",
+        "clean": "npx rimraf .next",
+        "prepare": "husky",
+        "analyze": "ANALYZE=true next build",
+        "test": "jest --watchAll=false"
+    },
+    "dependencies": {
+        "next": "16.2.10",
+        "react": "19.2.7",
+        "react-dom": "19.2.7"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4",
+        "@testing-library/dom": "^10.4.1",
+        "@testing-library/jest-dom": "^6.9.1",
+        "@testing-library/react": "^16.3.2",
+        "eslint": "10.6.0",
+        "eslint-config-next": "16.2.10",
+        "husky": "^9.1.7",
+        "jest": "^30.4.2",
+        "jest-environment-jsdom": "^30.4.1",
+        "lint-staged": "^17.0.8",
+        "prettier": "^3.9.4",
+        "tailwindcss": "^4"
+    },
+    "overrides": {
+        "eslint": "$eslint"
+    },
+    "browserslist": {
+        "production": [
+            ">0.3%",
+            "not ie 11",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "semi": true,
+        "trailingComma": "es5",
+        "bracketSpacing": true
+    },
+    "lint-staged": {
+        "src/**/*.{js,jsx}": [
+            "eslint --fix",
+            "prettier --write"
+        ],
+        "src/**/*.css": [
+            "prettier --write"
+        ]
+    }
+}
