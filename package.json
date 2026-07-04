@@ -38,7 +38,7 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint",
+        "lint": "eslint \"src/**/*.{js,jsx}\"",
         "format": "prettier --write \"src/**/*.{js,jsx,css}\"",
         "clean": "npx rimraf .next",
         "prepare": "husky",
@@ -51,6 +51,7 @@
         "react-dom": "19.2.7"
     },
     "devDependencies": {
+        "@eslint/eslintrc": "^3.3.5",
         "@tailwindcss/postcss": "^4",
         "@testing-library/dom": "^10.4.1",
         "@testing-library/jest-dom": "^6.9.1",
@@ -90,7 +91,6 @@
     },
     "lint-staged": {
         "src/**/*.{js,jsx}": [
-            "eslint --fix",
             "prettier --write"
         ],
         "src/**/*.css": [
