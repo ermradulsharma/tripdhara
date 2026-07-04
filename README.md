@@ -70,22 +70,17 @@ Whether you're looking for a quick quote, a custom itinerary, or live assistance
 
 ---
 
-## 💻 Developer Setup & Installation
+<br>
 
-Tripdhara is built as a highly optimized, server-rendered web platform designed for SEO and speed.
+<details>
+<summary><b>Technical Information (For Developers)</b></summary>
+<br>
+Tripdhara is built as a highly optimized, server-rendered web platform.
 
-- **Architecture:** Next.js 16.2 (App Router)
-- **Styling:** Tailwind CSS v4
+- **Architecture:** Next.js 16 (App Router)
 - **Data Management:** Modular JSON databases (`src/components/database/`) to easily update business offerings without redeploying code logic.
-
-**Steps to run locally:**
-
-1. Install dependencies (Node 20+ required):
-   ```bash
-   npm install
-   ```
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-3. Open `http://localhost:3000` in your browser.
+- **Setup:** 
+  1. `npm install`
+  2. `npm run dev` 
+  3. Access at `localhost:3000`
+</details>
