@@ -6,13 +6,14 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square&logo=github-actions" alt="Build" />
   </p>
+  <h1>TRIPधारा</h1>
 </div>
 
-Welcome to **Tripdhara**, a premier Himalayan travel and booking platform dedicated to delivering exceptional travel experiences across Uttarakhand and Himachal Pradesh. We combine deep regional expertise, trusted local partnerships, and modern hospitality standards to create seamless and memorable journeys for every traveler.
+Welcome to **Tripdhara (TRIPधारा)**, a premier Himalayan travel and booking platform dedicated to delivering exceptional travel experiences across Uttarakhand and Himachal Pradesh. We combine deep regional expertise, trusted local partnerships, and modern hospitality standards to create seamless and memorable journeys for every traveler.
 
-Whether you are seeking serene mountain escapes, spiritual retreats, adventure expeditions, scenic road trips, or immersive cultural experiences, **Tripdhara** ensures every aspect of your journey is carefully planned and professionally managed. Our commitment to personalized service, authentic local experiences, and hassle-free travel allows you to explore the Himalayas with complete confidence while we take care of every detail.
+Whether you are seeking serene mountain escapes, spiritual retreats, adventure expeditions, scenic road trips, or immersive cultural experiences, **Tripdhara (TRIPधारा)** ensures every aspect of your journey is carefully planned and professionally managed. Our commitment to personalized service, authentic local experiences, and hassle-free travel allows you to explore the Himalayas with complete confidence while we take care of every detail.
 
-At **Tripdhara**, we don't just plan trips, we create meaningful Himalayan experiences that leave lasting memories.
+At **Tripdhara (TRIPधारा)**, we don't just plan trips, we create meaningful Himalayan experiences that leave lasting memories.
 
 ---
 
