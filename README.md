@@ -1,6 +1,12 @@
 <div align="center">
   <img src="./public/assets/images/og-banner.png" alt="Tripdhara Premium Banner" width="100%" />
 </div>
+<p style="text-align: center; background: #191919">
+  <img src="https://img.shields.io/badge/Next.js-16.2-black?style=flat-square&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square&logo=github-actions" alt="Build" />
+</p>
 
 ---
 
@@ -64,17 +70,22 @@ Whether you're looking for a quick quote, a custom itinerary, or live assistance
 
 ---
 
-<br>
+## 💻 Developer Setup & Installation
 
-<details>
-<summary><b>Technical Information (For Developers)</b></summary>
-<br>
-Tripdhara is built as a highly optimized, server-rendered web platform.
+Tripdhara is built as a highly optimized, server-rendered web platform designed for SEO and speed.
 
-- **Architecture:** Next.js 16 (App Router)
+- **Architecture:** Next.js 16.2 (App Router)
+- **Styling:** Tailwind CSS v4
 - **Data Management:** Modular JSON databases (`src/components/database/`) to easily update business offerings without redeploying code logic.
-- **Setup:** 
-  1. `npm install`
-  2. `npm run dev` 
-  3. Access at `localhost:3000`
-</details>
+
+**Steps to run locally:**
+
+1. Install dependencies (Node 20+ required):
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Open `http://localhost:3000` in your browser.
