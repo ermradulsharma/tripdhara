@@ -1,9 +1,7 @@
-# 🏔️ Tripdhara
-
 <div align="center">
   <img src="./public/assets/images/og-banner.png" alt="Tripdhara Premium Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 </div>
-
+---
 Welcome to **Tripdhara**, the premier Himalayan travel and booking platform. We specialize in crafting unforgettable journeys across Uttarakhand and Himachal Pradesh by combining local expertise with modern hospitality standards to create completely worry-free travel experiences.
 
 ---
