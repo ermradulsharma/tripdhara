@@ -1,13 +1,14 @@
 export const metadata = {
     title: "Tripdhara - Premium Himalayan Travel & Stay Bookings",
-    description: "Premium travel booking services for Himalayan road trips and resort stays. Find professional chauffeur-driven cars, rental adventure bikes, luxury resorts, and custom packages across Uttarakhand & Himachal. Call +91 95364 89063 today.",
+    description:
+        "Premium travel booking services for Himalayan road trips and resort stays. Find professional chauffeur-driven cars, rental adventure bikes, luxury resorts, and custom packages across Uttarakhand & Himachal. Call +91 95364 89063 today.",
     keywords: [
         "Himalayan road trips",
         "Uttarakhand luxury resorts",
         "Himachal bike rentals",
         "premium travel booking",
         "chauffeur-driven cars",
-        "Tripdhara"
+        "Tripdhara",
     ],
     authors: [{ name: "Tripdhara" }],
     robots: "index, follow, max-image-preview:large",
@@ -23,7 +24,8 @@ export const metadata = {
         type: "website",
         url: "https://www.tripdhara.com/",
         title: "Tripdhara - Premium Himalayan Travel & Stay Bookings",
-        description: "Premium travel booking services for Himalayan road trips and resort stays. Find professional cars, rental bikes, and luxury resorts across Uttarakhand & Himachal.",
+        description:
+            "Premium travel booking services for Himalayan road trips and resort stays. Find professional cars, rental bikes, and luxury resorts across Uttarakhand & Himachal.",
         siteName: "Tripdhara",
         images: [
             {
@@ -35,7 +37,8 @@ export const metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Tripdhara - Premium Himalayan Travel & Stay Bookings",
-        description: "Premium travel booking services for Himalayan road trips and resort stays across Uttarakhand & Himachal.",
+        description:
+            "Premium travel booking services for Himalayan road trips and resort stays across Uttarakhand & Himachal.",
         images: ["https://www.tripdhara.com/assets/images/og-banner.png"],
     },
     icons: {
@@ -64,4 +67,8 @@ export const metadata = {
     },
 };
 
-export const viewport = { themeColor: "#050d0a", width: "device-width", initialScale: 1, };
+export const viewport = {
+    themeColor: "#050d0a",
+    width: "device-width",
+    initialScale: 1,
+};

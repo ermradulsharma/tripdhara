@@ -35,7 +35,9 @@ export default function DetailBlock({ data }) {
                 )}
 
                 {data.extraContent && (
-                    <p dangerouslySetInnerHTML={{ __html: data.extraContent }} />
+                    <p
+                        dangerouslySetInnerHTML={{ __html: data.extraContent }}
+                    />
                 )}
 
                 <a href={data.button.link} className="btn btn-primary">
