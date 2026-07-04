@@ -101,18 +101,18 @@ export default function Footer() {
                     <h5>Explore</h5>
                     <ul className="footer-links">
                         <li>
-                            <Link href="services/accommodation/">
+                            <Link href="/services/accommodation">
                                 Accommodation
                             </Link>
                         </li>
                         <li>
-                            <Link href="services/activities/">Activities</Link>
+                            <Link href="/services/activities">Activities</Link>
                         </li>
                         <li>
-                            <Link href="services/travel/">Travel Services</Link>
+                            <Link href="/services/travel">Travel Services</Link>
                         </li>
                         <li>
-                            <Link href="services/packages/">Packages</Link>
+                            <Link href="/services/packages">Packages</Link>
                         </li>
                     </ul>
                 </div>

@@ -7,7 +7,7 @@
         "title": "Travel Services",
         "emphasis": "Car Rental • Bike Rental • Chauffeur Cars",
         "description": "Conquer mountain roads on your own terms or with a local expert. We offer self-drive car rentals, adventure/cruiser motorcycles (Himalayan 450, Classic 350, XPulse), and premium chauffeur-driven SUVs for ultimate safety.",
-        "link": "services/travel/",
+        "link": "/services/travel",
         "linkText": "Explore Travel Options"
     },
     {
@@ -18,7 +18,7 @@
         "title": "Premium Accommodation",
         "emphasis": "Homestays • Hotels • Adventure Camping",
         "description": "Stay in handpicked, personally verified places. We offer cozy local homestays with authentic hospitality, luxury mountain resorts with panoramic peak views, and scenic riverside alpine camps.",
-        "link": "services/accommodation/",
+        "link": "/services/accommodation",
         "linkText": "Find Accommodations"
     },
     {
@@ -29,7 +29,7 @@
         "title": "Adventure Activities",
         "emphasis": "Trekking • Rafting • Bungee • Paragliding",
         "description": "Experience high-adrenaline Himalayan sports led by certified guides. Book river rafting in Rishikesh, paragliding in Bir Billing, bungee jumping, and guided mountain treks across scenic valleys.",
-        "link": "services/activities/",
+        "link": "/services/activities",
         "linkText": "Book Activities"
     },
     {
@@ -40,7 +40,7 @@
         "title": "Bespoke Tour Packages",
         "emphasis": "Chardham Yatras • Adventure Treks • Custom Getaways",
         "description": "Fully organized mountain itineraries designed by local experts. Book sacred pilgrimages (Chardham, Kedarnath, Badrinath, Gangotri, Yamunotri) or guided trekking packages tailored to your group size.",
-        "link": "services/packages/",
+        "link": "/services/packages",
         "linkText": "Design My Package"
     }
 ]
