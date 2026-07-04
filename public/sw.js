@@ -87,11 +87,13 @@ self.addEventListener("fetch", (event) => {
 
                     // Dynamically cache images, local assets, and Google Fonts
                     const requestUrl = event.request.url;
+                    let urlObj;
+                    try { urlObj = new URL(requestUrl); } catch(e) {}
+                    
                     if (
                         requestUrl.includes("/assets/images/") ||
                         requestUrl.includes("/favicon/") ||
-                        requestUrl.includes("fonts.gstatic.com") ||
-                        requestUrl.includes("fonts.googleapis.com")
+                        (urlObj && (urlObj.hostname === "fonts.gstatic.com" || urlObj.hostname === "fonts.googleapis.com"))
                     ) {
                         const responseToCache = networkResponse.clone();
                         caches.open(CACHE_NAME).then((cache) => {
