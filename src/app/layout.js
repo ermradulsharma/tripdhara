@@ -20,9 +20,16 @@ export { metadata, viewport } from "@/config/siteMetadata";
 
 export default function RootLayout({ children }) {
     return (
-        <html lang="en" data-scroll-behavior="smooth" className={`${inter.variable} ${outfit.variable} h-full antialiased`}>
+        <html
+            lang="en"
+            data-scroll-behavior="smooth"
+            className={`${inter.variable} ${outfit.variable} h-full antialiased`}
+        >
             <head>
-                <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+                <meta
+                    httpEquiv="Content-Security-Policy"
+                    content="upgrade-insecure-requests"
+                />
             </head>
             <body className="min-h-full flex flex-col font-inter bg-dark text-white">
                 <ClientSetup />

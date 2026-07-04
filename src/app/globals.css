@@ -331,9 +331,11 @@ textarea {
     left: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(circle,
-            rgba(9, 30, 22, 0.6) 0%,
-            rgba(3, 10, 7, 0.9) 100%);
+    background: radial-gradient(
+        circle,
+        rgba(9, 30, 22, 0.6) 0%,
+        rgba(3, 10, 7, 0.9) 100%
+    );
     z-index: 1;
 }
 
@@ -560,9 +562,11 @@ section {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom,
-            transparent 30%,
-            rgba(3, 8, 6, 0.95) 100%);
+    background: linear-gradient(
+        to bottom,
+        transparent 30%,
+        rgba(3, 8, 6, 0.95) 100%
+    );
 }
 
 .card-content {
@@ -866,9 +870,11 @@ section {
 
 .btn-submit {
     width: 100%;
-    background: linear-gradient(135deg,
-            var(--whatsapp-green) 0%,
-            var(--whatsapp-green-hover) 100%);
+    background: linear-gradient(
+        135deg,
+        var(--whatsapp-green) 0%,
+        var(--whatsapp-green-hover) 100%
+    );
     color: white;
     padding: 16px;
     border-radius: var(--radius-md);
@@ -1117,9 +1123,11 @@ section {
 }
 
 .btn-whatsapp {
-    background: linear-gradient(135deg,
-            var(--whatsapp-green) 0%,
-            var(--whatsapp-green-hover) 100%);
+    background: linear-gradient(
+        135deg,
+        var(--whatsapp-green) 0%,
+        var(--whatsapp-green-hover) 100%
+    );
     color: white;
     box-shadow: 0 4px 15px rgba(37, 211, 102, 0.2);
 }
@@ -1691,9 +1699,11 @@ section {
     right: 30px;
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg,
-            var(--whatsapp-green) 0%,
-            var(--whatsapp-green-hover) 100%);
+    background: linear-gradient(
+        135deg,
+        var(--whatsapp-green) 0%,
+        var(--whatsapp-green-hover) 100%
+    );
     color: white;
     border-radius: 50%;
     display: flex;
@@ -1889,7 +1899,6 @@ section {
 }
 
 @keyframes cursor-blink {
-
     from,
     to {
         border-color: transparent;
@@ -1986,10 +1995,12 @@ section {
     left: 0;
     width: 100%;
     padding: 30px 24px;
-    background: linear-gradient(to top,
-            rgba(5, 13, 10, 0.98) 0%,
-            rgba(5, 13, 10, 0.7) 50%,
-            transparent 100%);
+    background: linear-gradient(
+        to top,
+        rgba(5, 13, 10, 0.98) 0%,
+        rgba(5, 13, 10, 0.7) 50%,
+        transparent 100%
+    );
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -2342,10 +2353,12 @@ section {
     transform: translate(-50%, -50%);
     width: 600px;
     height: 600px;
-    background: radial-gradient(circle,
-            rgba(245, 166, 35, 0.08) 0%,
-            rgba(42, 92, 74, 0.05) 50%,
-            transparent 80%);
+    background: radial-gradient(
+        circle,
+        rgba(245, 166, 35, 0.08) 0%,
+        rgba(42, 92, 74, 0.05) 50%,
+        transparent 80%
+    );
     filter: blur(100px);
     pointer-events: none;
     z-index: 1;
@@ -2405,9 +2418,11 @@ section {
 .about-section {
     position: relative;
     padding: 100px 0;
-    background: linear-gradient(to bottom,
-            rgba(3, 8, 6, 0.95),
-            rgba(5, 13, 10, 0.98));
+    background: linear-gradient(
+        to bottom,
+        rgba(3, 8, 6, 0.95),
+        rgba(5, 13, 10, 0.98)
+    );
     border-top: 1px solid rgba(255, 255, 255, 0.03);
 }
 
@@ -2571,9 +2586,11 @@ section {
     left: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(circle,
-            rgba(9, 30, 22, 0.7) 0%,
-            rgba(3, 10, 7, 0.95) 100%);
+    background: radial-gradient(
+        circle,
+        rgba(9, 30, 22, 0.7) 0%,
+        rgba(3, 10, 7, 0.95) 100%
+    );
     z-index: 1;
 }
 
