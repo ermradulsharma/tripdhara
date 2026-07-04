@@ -1,14 +1,14 @@
-import Hero from "@/components/Hero";
-import Intro from "@/components/Intro";
-import Services from "@/components/Services";
-import Routes from "@/components/Routes";
-import WhyUs from "@/components/WhyUs";
-import Booking from "@/components/Booking";
-import Destinations from "@/components/Destinations";
-import About from "@/components/About";
-import Testimonials from "@/components/Testimonials";
-import FAQ from "@/components/FAQ";
-import Contact from "@/components/Contact";
+import Hero from "@/components/sections/Hero";
+import Intro from "@/components/sections/Intro";
+import Services from "@/components/sections/Services";
+import Routes from "@/components/sections/Routes";
+import WhyUs from "@/components/sections/WhyUs";
+import Booking from "@/components/sections/Booking";
+import Destinations from "@/components/sections/Destinations";
+import About from "@/components/sections/About";
+import Testimonials from "@/components/sections/Testimonials";
+import FAQ from "@/components/sections/FAQ";
+import Contact from "@/components/sections/Contact";
 
 export default function Page() {
     return (

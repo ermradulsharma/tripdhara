@@ -1,17 +1,12 @@
-const CACHE_NAME = "tripdhara-cache-v9";
+const CACHE_NAME = "tripdhara-cache-v10";
 const urlsToCache = [
     "/",
-    "index.html",
-    "services/accommodation/",
-    "services/accommodation/index.html",
-    "services/activities/",
-    "services/activities/index.html",
-    "services/travel/",
-    "services/travel/index.html",
-    "services/packages/",
-    "services/packages/index.html",
-    "assets/css/style.css",
-    "assets/js/main.js",
+    "/services/accommodation",
+    "/services/activities",
+    "/services/travel",
+    "/services/packages",
+    "/terms",
+    "/privacy-policy",
 ];
 
 // Install service worker and cache core static assets
@@ -60,7 +55,7 @@ self.addEventListener("fetch", (event) => {
                 })
                 .catch(() => {
                     // Fallback to cache if offline
-                    return caches.match("index.html") || caches.match("/");
+                    return caches.match("/");
                 }),
         );
         return;
