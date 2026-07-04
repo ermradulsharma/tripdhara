@@ -107,7 +107,7 @@ export default function Booking() {
         window.open(
             `https://wa.me/${recipientPhone}?text=${encodedText}`,
             "_blank",
-            "noopener,noreferrer",
+            "noopener,noreferrer"
         );
     };
 
@@ -170,7 +170,7 @@ export default function Booking() {
                                             onSubmit={(e) =>
                                                 submitWhatsApp(
                                                     e,
-                                                    "accommodation",
+                                                    "accommodation"
                                                 )
                                             }
                                         >
@@ -194,7 +194,7 @@ export default function Booking() {
                                                                     name: e
                                                                         .target
                                                                         .value,
-                                                                },
+                                                                }
                                                             )
                                                         }
                                                     />
@@ -218,7 +218,7 @@ export default function Booking() {
                                                                     phone: e
                                                                         .target
                                                                         .value,
-                                                                },
+                                                                }
                                                             )
                                                         }
                                                     />
@@ -239,7 +239,7 @@ export default function Booking() {
                                                                     type: e
                                                                         .target
                                                                         .value,
-                                                                },
+                                                                }
                                                             )
                                                         }
                                                     >
@@ -275,7 +275,7 @@ export default function Booking() {
                                                                     checkin:
                                                                         e.target
                                                                             .value,
-                                                                },
+                                                                }
                                                             )
                                                         }
                                                     />
@@ -293,7 +293,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "nights",
-                                                                    -1,
+                                                                    -1
                                                                 )
                                                             }
                                                         >
@@ -315,7 +315,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "nights",
-                                                                    1,
+                                                                    1
                                                                 )
                                                             }
                                                         >
@@ -334,7 +334,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "guests",
-                                                                    -1,
+                                                                    -1
                                                                 )
                                                             }
                                                         >
@@ -356,7 +356,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "guests",
-                                                                    1,
+                                                                    1
                                                                 )
                                                             }
                                                         >
@@ -383,7 +383,7 @@ export default function Booking() {
                                                                     dest: e
                                                                         .target
                                                                         .value,
-                                                                },
+                                                                }
                                                             )
                                                         }
                                                     />
@@ -395,7 +395,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "dest",
-                                                                    "Chopta / Tungnath",
+                                                                    "Chopta / Tungnath"
                                                                 )
                                                             }
                                                         >
@@ -408,7 +408,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "dest",
-                                                                    "Rishikesh (Riverside)",
+                                                                    "Rishikesh (Riverside)"
                                                                 )
                                                             }
                                                         >
@@ -421,7 +421,7 @@ export default function Booking() {
                                                                     accommodationForm,
                                                                     setAccommodationForm,
                                                                     "dest",
-                                                                    "Auli (Ski Resort)",
+                                                                    "Auli (Ski Resort)"
                                                                 )
                                                             }
                                                         >
@@ -669,7 +669,7 @@ export default function Booking() {
                                                                     activityForm,
                                                                     setActivityForm,
                                                                     "members",
-                                                                    -1,
+                                                                    -1
                                                                 )
                                                             }
                                                         >
@@ -691,7 +691,7 @@ export default function Booking() {
                                                                     activityForm,
                                                                     setActivityForm,
                                                                     "members",
-                                                                    1,
+                                                                    1
                                                                 )
                                                             }
                                                         >
@@ -895,7 +895,7 @@ export default function Booking() {
                                                                     travelForm,
                                                                     setTravelForm,
                                                                     "days",
-                                                                    -1,
+                                                                    -1
                                                                 )
                                                             }
                                                         >
@@ -917,7 +917,7 @@ export default function Booking() {
                                                                     travelForm,
                                                                     setTravelForm,
                                                                     "days",
-                                                                    1,
+                                                                    1
                                                                 )
                                                             }
                                                         >
@@ -1053,7 +1053,7 @@ export default function Booking() {
                                                                     packageForm,
                                                                     setPackageForm,
                                                                     "days",
-                                                                    -1,
+                                                                    -1
                                                                 )
                                                             }
                                                         >
@@ -1075,7 +1075,7 @@ export default function Booking() {
                                                                     packageForm,
                                                                     setPackageForm,
                                                                     "days",
-                                                                    1,
+                                                                    1
                                                                 )
                                                             }
                                                         >
@@ -1094,7 +1094,7 @@ export default function Booking() {
                                                                     packageForm,
                                                                     setPackageForm,
                                                                     "members",
-                                                                    -1,
+                                                                    -1
                                                                 )
                                                             }
                                                         >
@@ -1116,7 +1116,7 @@ export default function Booking() {
                                                                     packageForm,
                                                                     setPackageForm,
                                                                     "members",
-                                                                    1,
+                                                                    1
                                                                 )
                                                             }
                                                         >

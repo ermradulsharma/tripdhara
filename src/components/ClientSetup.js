@@ -17,7 +17,7 @@ export default function ClientSetup() {
                     }
                 });
             },
-            { root: null, threshold: 0.15, rootMargin: "0px 0px -50px 0px" },
+            { root: null, threshold: 0.15, rootMargin: "0px 0px -50px 0px" }
         );
         scrollElements.forEach((el) => scrollObserver.observe(el));
 

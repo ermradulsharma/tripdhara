@@ -314,10 +314,10 @@ export default function TermsPage() {
                             </li>
                         </ul>
                         <p>
-                            Tripdhara reserves the right to terminate a client&apos;s
-                            trip without refund if their behavior is deemed
-                            illegal, disruptive, or dangerous to themselves or
-                            others.
+                            Tripdhara reserves the right to terminate a
+                            client&apos;s trip without refund if their behavior
+                            is deemed illegal, disruptive, or dangerous to
+                            themselves or others.
                         </p>
                     </section>
 
