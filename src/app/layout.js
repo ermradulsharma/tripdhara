@@ -2,8 +2,8 @@ import { Inter, Outfit } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/ui/Header";
 import Footer from "@/components/ui/Footer";
-import WhatsAppWidget from "@/components/ui/WhatsAppWidget";
-import ClientSetup from "@/components/ui/ClientSetup";
+import WhatsApp from "@/components/ui/WhatsApp";
+import Setup from "@/components/ui/Setup";
 import AppScripts from "@/components/ui/AppScripts";
 
 const inter = Inter({
@@ -16,7 +16,7 @@ const outfit = Outfit({
     subsets: ["latin"],
 });
 
-export { metadata, viewport } from "@/config/siteMetadata";
+export { metadata, viewport } from "@/config/metadata";
 
 export default function RootLayout({ children }) {
     return (
@@ -32,11 +32,11 @@ export default function RootLayout({ children }) {
                 />
             </head>
             <body className="min-h-full flex flex-col font-inter bg-dark text-white">
-                <ClientSetup />
+                <Setup />
                 <Header />
                 {children}
                 <Footer />
-                <WhatsAppWidget />
+                <WhatsApp />
                 <AppScripts />
             </body>
         </html>

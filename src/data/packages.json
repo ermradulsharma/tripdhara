@@ -1,0 +1,256 @@
+[
+    {
+        "id": "chardham",
+        "tagline": "4.1. Complete Pilgrimage",
+        "title": "Sacred Char Dham Yatra",
+        "description": [
+            "The Char Dham Yatra is one of the most sacred Hindu pilgrimages, taking you to the four holy Himalayan shrines: Yamunotri, Gangotri, Kedarnath, and Badrinath.",
+            "Completing this Yatra is believed to wash away sins and help achieve Moksha. Each temple represents a unique spiritual energy—from Shiva's raw power at Kedarnath to Vishnu's peaceful benevolence at Badrinath."
+        ],
+        "benefits": {
+            "title": "Package Highlights & Itinerary:",
+            "items": [
+                {
+                    "title": "10 Days / 9 Nights Route:",
+                    "text": "Includes Haridwar/Rishikesh, Barkot, Uttarkashi, Sonprayag, Badrinath, and back."
+                },
+                {
+                    "title": "Full Logistics Support:",
+                    "text": "Pre-booked clean hotel stays, VIP temple line passes, and emergency guides."
+                },
+                {
+                    "title": "Best Time:",
+                    "text": "May to June, and September to October."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Char Dham Yatra"
+        },
+        "image": {
+            "src": "/assets/images/chaardhama_yatra.png",
+            "alt": "Char Dham Yatra"
+        }
+    },
+    {
+        "id": "kedarnath-yatra",
+        "tagline": "4.2. Shiva's Abode",
+        "title": "Kedarnath Yatra",
+        "description": [
+            "Journey to the seat of Lord Shiva. Located at an altitude of 3,584 meters near the Mandakini River, Kedarnath is the most famous of the Panch Kedar shrines.",
+            "The ancient stone temple is an architectural marvel that stood resilient against the 2013 floods, protected by a massive boulder (Bheem Shila) that rolled behind it."
+        ],
+        "benefits": {
+            "title": "Travel Information:",
+            "items": [
+                {
+                    "title": "Trek Details:",
+                    "text": "The temple is accessible via a 16km trek from Sonprayag/Gaurikund."
+                },
+                {
+                    "title": "Alternative Transport:",
+                    "text": "Helicopter bookings, horse rentals, and palanquins are available."
+                },
+                {
+                    "title": "Stays:",
+                    "text": "Accommodation provided at base camp or Sonprayag."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Kedarnath Yatra"
+        },
+        "image": {
+            "src": "/assets/images/kedarnath_yatra.png",
+            "alt": "Kedarnath Temple"
+        }
+    },
+    {
+        "id": "badrinath-yatra",
+        "tagline": "4.3. Vishnu's Sanctuary",
+        "title": "Badrinath Yatra",
+        "description": [
+            "Visit the holy abode of Lord Vishnu. Situated along the banks of the Alaknanda River at an altitude of 3,133 meters, Badrinath is easily accessible by road, making it highly comfortable for family pilgrimages."
+        ],
+        "benefits": {
+            "title": "Journey Highlights:",
+            "items": [
+                {
+                    "title": "Tapt Kund:",
+                    "text": "Take a holy dip in natural thermal springs beside the temple."
+                },
+                {
+                    "title": "Mana Village:",
+                    "text": "Excursions to the last Indian village before the Indo-China border, just 3km from Badrinath."
+                },
+                {
+                    "title": "Saraswati Origin:",
+                    "text": "Witness the mighty Saraswati river emerge from the rocks."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Badrinath Yatra"
+        },
+        "image": {
+            "src": "/assets/images/badrinath_yatra.png",
+            "alt": "Badrinath Temple"
+        }
+    },
+    {
+        "id": "gangotri-yatra",
+        "tagline": "4.4. Source of Ganga",
+        "title": "Gangotri Yatra",
+        "description": [
+            "Journey to the source of the holy river Ganga. Located at 3,100 meters, the white granite temple stands amidst cedar forests and snow-capped peaks in the Bhagirathi valley.",
+            "The temple is dedicated to Goddess Ganga, marking the spot where the river descended to earth from Lord Shiva's locks to wash away the sins of King Bhagirath's ancestors."
+        ],
+        "benefits": {
+            "title": "Route Information:",
+            "items": [
+                {
+                    "title": "Harsil Valley:",
+                    "text": "Drive through the scenic Harsil valley, famous for apple orchards."
+                },
+                {
+                    "title": "Road Access:",
+                    "text": "The route is well-tarred and highly comfortable for all age groups."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Gangotri Yatra"
+        },
+        "image": {
+            "src": "/assets/images/gangotri_yatra.png",
+            "alt": "Gangotri Temple"
+        }
+    },
+    {
+        "id": "yamunotri-yatra",
+        "tagline": "4.5. The Sun's Daughter",
+        "title": "Yamunotri Yatra",
+        "description": [
+            "The first stop of the Chardham pilgrimage. Tucked away in a narrow gorge of the Bandarpoonch peaks, Yamunotri is the birthplace of the Yamuna River.",
+            "Dedicated to Goddess Yamuna, daughter of the Sun God. A holy dip in the Yamuna is believed to protect pilgrims from untimely death."
+        ],
+        "benefits": {
+            "title": "Travel Experience:",
+            "items": [
+                {
+                    "title": "The Trek:",
+                    "text": "A 6km walk along a steep, paved path from Janki Chatti."
+                },
+                {
+                    "title": "Surya Kund:",
+                    "text": "Cook rice or potatoes as prasad in natural hot boiling springs."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Yamunotri Yatra"
+        },
+        "image": {
+            "src": "/assets/images/yamunotri_yatra.png",
+            "alt": "Yamunotri Route"
+        }
+    },
+    {
+        "id": "kedarnath-trek",
+        "tagline": "4.6. Pilgrim Trail",
+        "title": "Kedarnath Trek Package",
+        "description": [
+            "A challenging yet spiritually rewarding walk. The 16km trail from Gaurikund to Kedarnath takes you through cascading waterfalls, mountain streams, and steep winding stone paths."
+        ],
+        "benefits": {
+            "title": "Preparation & Details:",
+            "items": [
+                {
+                    "title": "Difficulty Level:",
+                    "text": "Moderate to Difficult. The altitude crosses 3,000 meters."
+                },
+                {
+                    "title": "Trek Preparation:",
+                    "text": "Cardiorespiratory exercises are recommended weeks before."
+                },
+                {
+                    "title": "Halts:",
+                    "text": "Stays in Lincholi or Bheembali rest stops."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Kedarnath Trek"
+        },
+        "image": {
+            "src": "/assets/images/kedarnath_trek_package.png",
+            "alt": "Kedarnath Trek"
+        }
+    },
+    {
+        "id": "vasukital",
+        "tagline": "4.7. Glacial Lakes",
+        "title": "Vasuki Tal Trek",
+        "description": [
+            "For seasoned adventurers, this trek extends beyond the Kedarnath temple to a high-altitude glacial lake at 4,135 meters.",
+            "Walk through gravel moraines, Chaturangi glacier fields, and witness the towering Chaukhamba peaks reflection in the clear blue waters where the sacred Brahma Kamal flower blooms."
+        ],
+        "benefits": {
+            "title": "Trek Specifications:",
+            "items": [
+                {
+                    "title": "Difficulty:",
+                    "text": "Difficult. A local certified mountaineering guide is mandatory."
+                },
+                {
+                    "title": "Best Time:",
+                    "text": "September to October for clear skies and stable glacier trails."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Vasuki Tal Trek"
+        },
+        "image": {
+            "src": "/assets/images/vasuki_tal_trek.png",
+            "alt": "Vasuki Tal Lake"
+        }
+    },
+    {
+        "id": "triyuginarayan",
+        "tagline": "4.8. Mythological Paths",
+        "title": "Triyuginarayan Trek",
+        "description": [
+            "Walk through quiet pine forests and Garhwali villages to the ancient temple where Lord Shiva and Goddess Parvati were married in the presence of Lord Brahma.",
+            "The temple houses a perpetual fire flame (Akhand Dhuni) that has been burning since the marriage in Satya Yuga."
+        ],
+        "benefits": {
+            "title": "Trek Experience:",
+            "items": [
+                {
+                    "title": "Difficulty:",
+                    "text": "Easy to Moderate. An 9km trek starting from Sonprayag."
+                },
+                {
+                    "title": "Local Culture:",
+                    "text": "Enjoy wood-fired Himalayan meals at village homestays near the temple."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Triyuginarayan Trek"
+        },
+        "image": {
+            "src": "/assets/images/triyuginarayan_trek.png",
+            "alt": "Triyuginarayan Temple"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "id": "car-rental",
+        "tagline": "3.1. Self-Drive Cars",
+        "title": "Self-Drive Car Rentals",
+        "description": [
+            "Travel at your own pace with our reliable self-drive car rentals. Perfect for families or groups who want privacy and the freedom to stop whenever they see a scenic viewpoint.",
+            "All vehicles undergo strict servicing, deep cleaning, and tire/brake safety checks before handover. Enjoy transparent pricing with zero hidden surcharges."
+        ],
+        "benefits": {
+            "title": "Vehicle Options & Benefits:",
+            "items": [
+                {
+                    "title": "SUVs (Thar, Scorpio, Brezza):",
+                    "text": "High ground clearance and rugged suspension built for mountain gravel."
+                },
+                {
+                    "title": "Unlimited Kilometers:",
+                    "text": "Drive without limitations or worrying about per-kilometer costs."
+                },
+                {
+                    "title": "Simple Booking:",
+                    "text": "Present a valid LMV driving license and Government ID at pick-up."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Rent a Self-Drive Car"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_car.png",
+            "alt": "Self-Drive Car"
+        }
+    },
+    {
+        "id": "bike-rental",
+        "tagline": "3.2. Two-Wheeler Rentals",
+        "title": "Adventure Motorcycles",
+        "description": [
+            "For the solo rider and adventure seeker, renting a motorcycle is the ultimate way to explore the winding turns of the Himalayas.",
+            "Pick up your bike along with a sanitized helmet from our hub in Rishikesh. Every bike undergoes a 12-point pre-rental safety inspection."
+        ],
+        "benefits": {
+            "title": "Available Fleet:",
+            "items": [
+                {
+                    "title": "Royal Enfield Himalayan 450:",
+                    "text": "Built for gravel, rock crawls, and altitude."
+                },
+                {
+                    "title": "Royal Enfield Classic 350:",
+                    "text": "The classic choice for comfortable mountain cruising."
+                },
+                {
+                    "title": "Hero XPulse 200:",
+                    "text": "Lightweight, extremely agile on steep dirt curves."
+                }
+            ]
+        },
+        "extraContent": "<strong>Safety Guidelines:</strong> Always wear a helmet, Keep left on blind mountain curves, avoid riding after sunset, and check engine oil levels daily.",
+        "button": {
+            "link": "../../#booking",
+            "text": "Rent an Adventure Bike"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_bike.png",
+            "alt": "Adventure Bike Rental"
+        }
+    },
+    {
+        "id": "chauffeur",
+        "tagline": "3.3. Mountain Chauffeurs",
+        "title": "Premium Chauffeur-Driven Cars",
+        "description": [
+            "Mountain driving is highly demanding. Rest your hands and enjoy the valley views by booking a premium SUV driven by a professional local chauffeur who knows the terrain.",
+            "Our drivers are local residents who have spent years navigating Uttarakhand. They understand engine braking on downhills, slow curve navigation, and local weather signals."
+        ],
+        "benefits": {
+            "title": "Why Book Chauffeur Cars:",
+            "items": [
+                {
+                    "title": "Stress-Free Transit:",
+                    "text": "Avoid steep climb navigation or single-lane parking hassles."
+                },
+                {
+                    "title": "Local Chauffeurs:",
+                    "text": "Our drivers double as guides, pointing out safe eating halts and scenic spots."
+                },
+                {
+                    "title": "Ideal Use Cases:",
+                    "text": "Family pilgrimages, group tours, or winter routes."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Chauffeur-Driven SUV"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_chauffer_car.png",
+            "alt": "Chauffeur Driven SUV"
+        }
+    }
+]

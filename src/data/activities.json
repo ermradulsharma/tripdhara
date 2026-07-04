@@ -1,0 +1,134 @@
+[
+    {
+        "id": "rafting",
+        "tagline": "2.1. White Water Rapids",
+        "title": "Ganga River Rafting in Rishikesh",
+        "description": [
+            "Rishikesh is home to some of the finest white-water rapids in the world. Navigate the emerald waters of the Ganga as it cuts through the Shivalik hills, led by professional river captains."
+        ],
+        "benefits": {
+            "title": "Experience Highlights:",
+            "items": [
+                {
+                    "title": "Rapids for Everyone:",
+                    "text": "From beginner-friendly Grade II rapids (like Club House and Double Trouble) to challenging Grade III+ rapids (like Roller Coaster and Golf Course)."
+                },
+                {
+                    "title": "Body Surfing:",
+                    "text": "Experience the thrill of floating in the calm stretches of the river under the supervision of your guide."
+                },
+                {
+                    "title": "Cliff Jumping:",
+                    "text": "Leap off ledges into the deep river pool at designated points along the rafting route."
+                }
+            ]
+        },
+        "extraContent": "<strong>Safety & Regulations:</strong> Every raft is guided by a certified river captain and accompanied by a safety kayaker. High-buoyancy life jackets, helmets, and a detailed safety briefing are mandatory.<br/><br/><strong>Best Time:</strong> Late September to mid-June. Rafting is closed during monsoons (July to mid-Sept).",
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Rafting Slot"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_rafting.png",
+            "alt": "River Rafting Rishikesh"
+        }
+    },
+    {
+        "id": "trekking",
+        "tagline": "2.2. Mountain Trails",
+        "title": "Guided Wilderness Trekking",
+        "description": [
+            "Walk through ancient oak forests, rhododendron groves, and high-altitude alpine meadows (bugyals). Trekking in Uttarakhand offers routes for every level of fitness."
+        ],
+        "benefits": {
+            "title": "Trek Difficulty Levels:",
+            "items": [
+                {
+                    "title": "Easy (Beginner-Friendly):",
+                    "text": "Deoriatal-Chandrashila trek, Nag Tibba. Perfect for families and weekend trips."
+                },
+                {
+                    "title": "Moderate (Basic fitness):",
+                    "text": "Har Ki Dun, Valley of Flowers, Dayara Bugyal."
+                },
+                {
+                    "title": "Difficult (High Altitude):",
+                    "text": "Roopkund, Kedartal, Bali Pass. Recommended for experienced trekkers."
+                }
+            ]
+        },
+        "extraContent": "<strong>What to Expect:</strong> Walk with experienced local guides who understand trail safety, mountain weather signs, and flora/fauna. Mules or porters handle the luggage so you can walk comfortably.",
+        "button": {
+            "link": "../../#booking",
+            "text": "Explore Trek Packages"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_trekking.png",
+            "alt": "Himalayan Trekking"
+        }
+    },
+    {
+        "id": "bungee",
+        "tagline": "2.3. Free Fall",
+        "title": "India's Highest Bungee Jumping",
+        "description": [
+            "Leap from India's highest fixed-platform bungee jumping site in Rishikesh. Jump from a cantilever platform built over a rocky cliff overlooking a tributary of the Ganga, at a height of 83 meters.",
+            "Designed and operated by jumpmasters from Australia and New Zealand. All harnesses, cords, and safety systems comply with international safety regulations."
+        ],
+        "faqs": {
+            "title": "Frequently Asked Questions:",
+            "items": [
+                {
+                    "question": "Is there an age/weight limit?",
+                    "answer": "Minimum age is 12 years. Minimum weight is 35kg, maximum is 110kg."
+                },
+                {
+                    "question": "Are there any medical restrictions?",
+                    "answer": "Jumping is not permitted for individuals with heart conditions, epilepsy, high blood pressure, back/neck injuries, or pregnancy."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Bungee Jump"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_bungee.png",
+            "alt": "Bungee Jumping Rishikesh"
+        }
+    },
+    {
+        "id": "paragliding",
+        "tagline": "2.4. Soaring Skies",
+        "title": "Tandem Paragliding Joyrides",
+        "description": [
+            "Soar like a Himalayan eagle over the valleys of Rishikesh or the alpine lakes of Bhimtal. Enjoy the panoramic views of terraced fields and winding rivers under the wings.",
+            "In a tandem flight, you are securely harnessed to an experienced pilot who handles the launch, navigation, and landing. You simply take a short run off the slope."
+        ],
+        "benefits": {
+            "title": "Safety & Logistics:",
+            "items": [
+                {
+                    "title": "Certified Pilots:",
+                    "text": "Fly with licenses holding veteran pilots with hundreds of logged flight hours."
+                },
+                {
+                    "title": "Equipment Checks:",
+                    "text": "Pre-flight glider checks and reserve parachutes are standard for all launches."
+                },
+                {
+                    "title": "Ideal Season:",
+                    "text": "September to November, and March to May are best for flight thermals."
+                }
+            ]
+        },
+        "button": {
+            "link": "../../#booking",
+            "text": "Book Paragliding Flight"
+        },
+        "image": {
+            "src": "/assets/images/tripdhara_paragliding.png",
+            "alt": "Paragliding Flight"
+        }
+    }
+]

@@ -2,7 +2,7 @@
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 
-export default function ClientSetup() {
+export default function Setup() {
     const pathname = usePathname();
 
     useEffect(() => {

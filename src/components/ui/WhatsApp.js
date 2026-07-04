@@ -1,4 +1,4 @@
-export default function WhatsAppWidget() {
+export default function WhatsApp() {
     return (
         <a
             href="https://wa.me/919536489063"
