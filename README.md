@@ -8,9 +8,6 @@
   </p>
 </div>
 
-
----
-
 Welcome to **Tripdhara**, the premier Himalayan travel and booking platform. We specialize in crafting unforgettable journeys across Uttarakhand and Himachal Pradesh by combining local expertise with modern hospitality standards to create completely worry-free travel experiences.
 
 ---
