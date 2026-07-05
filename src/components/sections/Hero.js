@@ -1,6 +1,9 @@
 export default function Hero() {
     return (
         <section className="hero-section">
+            <video autoPlay loop muted playsInline className="hero-video-bg">
+                <source src="/assets/intro.mp4" type="video/mp4" />
+            </video>
             <div className="hero-overlay"></div>
             <div className="hero-content">
                 <h1 className="hero-title animate-up">

@@ -45,7 +45,7 @@ export default function Header() {
             >
                 <div className="logo">
                     <Link href="/" className="logo-link">
-                        <span className="logo-accent">Trip</span>dhara
+                        <span className="logo-accent">TRIP</span>धारा
                     </Link>
                 </div>
                 <ul className={`nav-menu ${mobileMenuOpen ? "open" : ""}`}>
